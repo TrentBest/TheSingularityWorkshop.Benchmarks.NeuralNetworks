@@ -11,7 +11,7 @@
   ],
   "branch_count": 2,
   "status": "COMPLIANT",
-  "evaluated_at": "2026-11-06T08:07:34Z",
-  "workflow_run": "https://github.com/TrentBest/TheSingularityWorkshop.Benchmarks.NeuralNetworks/actions/runs/42185430475",
-  "triggering_commit": "ecbc7fb7604cae3fa3fee93449427ae37e27823d"
+  "evaluated_at": "2026-11-06T08:07:44Z",
+  "workflow_run": "https://github.com/TrentBest/TheSingularityWorkshop.Benchmarks.NeuralNetworks/actions/runs/42185433751",
+  "triggering_commit": "09efcefe7d5fe6e3519926700d75e271bf9fb0f3"
 }
